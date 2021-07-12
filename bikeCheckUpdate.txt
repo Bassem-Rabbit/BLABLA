@@ -1,5 +1,5 @@
 {
-    "version": 0.9,
-    "area": "all",
+    "version": 1.0,
+    "area": "Newgiza",
     "url":"https://github.com/Bassem-Rabbit/BLABLA/raw/main/bike.apk"
 }
